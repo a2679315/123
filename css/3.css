@@ -1,0 +1,47 @@
+div{
+    font-family: "微软雅黑";
+}
+.box01{
+    font-size: 24px;
+    font-weight: bold;
+    padding-top: 9px;
+    padding-left: 11px;
+    height:50px; 
+    color: azure;
+    background-color: rgb(90, 95, 100);
+    width:98.3%;
+}
+.box02 {
+    font-size: 15px;
+    text-align: center;
+    height: 50px;
+    width: 80px;
+    float: left;
+    padding-top: 30px;
+    background: rgb(180, 180, 180);
+    border-collapse: collapse;
+    border-bottom: 1px solid rgb(211, 209, 209);
+    border-right: 1px solid rgb(211, 209, 209);
+}
+.box03{
+    margin-left:80px; 
+    height: 80px;
+    padding-top: 5px;
+    padding-left: 5px;
+    font-size: 16px;
+    margin-bottom: -1px;
+    border-collapse: collapse;
+    border-bottom: 1px solid rgb(211, 209, 209);
+    border-right: 1px solid rgb(211, 209, 209);
+}
+.box04{
+    height: auto;
+    width: 99%;
+    border-left: 1px solid rgb(211, 209, 209);
+    border-top: 1px solid rgb(211, 209, 209);
+    border-bottom: 1px solid rgb(211, 209, 209);
+    border-collapse: collapse;
+}
+span{
+    font-weight: bold;
+}
